@@ -1,4 +1,4 @@
-console.log("AP Classroom Assignments Modify: Page loaded and script loaded, waiting for element.");
+console.log("AP Classroom Assignments Modify (V2.0): Page loaded and script loaded, waiting for element.");
 let check = true;
 modifyCarousel = setInterval(()=>{
     // Assignment carousel element is the first element with class "carousel-parent-container".
