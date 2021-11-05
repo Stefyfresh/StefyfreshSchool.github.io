@@ -15,8 +15,7 @@ modifyCarousel = setInterval(()=>{
         // Only log to the console the first time the element disappears.
         if (check == false){
             console.log("[AP Classroom Assignments Modify (V2.0)]: Carousel disappeared! Waiting for element.");
-        }
-      
+        }  
         // If the element does not exist we should check for it.
         check = true;
     }
